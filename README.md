@@ -1,1 +1,1 @@
-# Python-Finance-Projects
+# Mini Python Finance Projects
