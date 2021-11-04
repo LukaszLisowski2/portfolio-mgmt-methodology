@@ -1,7 +1,7 @@
 My journey with Python and R
 
-//02.2021
-My name is Lukasz Lisowski. I am currently a 2nd year Finance and Management student at Northumbria University. I have started learning Python few months ago independently in order to build my technical skills. I will store here all my financial projects in Python from basic ones to the most challenging ones which will be updated in a future.
+
+My name is Lukasz Lisowski. I am currently a 2nd year Finance and Management student at Northumbria University. I have started learning Python few months ago independently in order to build my technical skills. I will store here all my financial projects in Python from basic ones to the most challenging ones which will be updated in a future. //02.2021
 
 Data Science/Finance/Statistics projects*:
 
