@@ -9,10 +9,11 @@ Data Science/Finance/Statistics projects*:
 2. Monte Carlo Simulation of Alphabet Stock (Python)
 3. Black Scholes Implementation Model (Python)
 4. Option Pricing for Palantir Technologies using Monte Carlo Geometric Brownian Motion (Python)
+
 5. University assignment portfolio optimization. - Part I (Python)
 6. Hierarchial Risk Parity - Part II (Python)
 7. Black Litterman Allocation - Part III (Python)
 
-6.Forecasting NIO prices using sGARCH(1,1) model with normal distribution variance (R, Rstudio)
+8. Forecasting NIO prices using sGARCH(1,1) model with normal distribution variance (R, Rstudio)
 
 *UPDATED ON 04.11.2021 23:56
