@@ -65,7 +65,10 @@ $$\beta_{spxprice,i} = \sigma_{i, spxprice} / \sigma_{spxprice}^2$$
 
 ## File reference
 BYD, KO, S, ELF, COCO.csv - raw datasets
+
 Efficient_Frontier_using_Simulated_Portfolios.ipynb - Efficient Frontier methodology
+
 Risk Parity.ipynb - Risk Parity methodology
+
 Risk Neutral Portfolio.ipynb - Risk Neutral methodology using cvxpy optimizer
 
