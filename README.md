@@ -72,3 +72,5 @@ Risk Parity.ipynb - Risk Parity methodology
 
 Risk Neutral Portfolio.ipynb - Risk Neutral methodology using cvxpy optimizer
 
+Special thanks for @FilippoGuerrieri26 for providing cvxpy optimizer setup template
+
