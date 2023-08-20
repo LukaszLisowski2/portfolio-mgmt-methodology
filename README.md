@@ -61,7 +61,7 @@ $$\beta_{spxprice,i} = \sigma_{i, spxprice} / \sigma_{spxprice}^2$$
 
 **Portfolio (ex-ante) annualized volatility is: 5.13%**
 
-**Single constituent's volatility is: 1.71**
+**Single constituent's volatility is: 1.71%**
 
 ## File reference
 BYD, KO, S, ELF, COCO.csv - raw datasets
