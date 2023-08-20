@@ -24,9 +24,13 @@ For this portfolio, I have decided to select five random US stocks:
 
 ## Initial extraction of data, data cleaning and preperation
 1. Download the data from YahooFinance
-2.Extract the closing price columns from each of the dataset 
+   
+2.Extract the closing price columns from each of the dataset
+
 3.Merge the dataset into one 
+
 4.Calculate simple/log returns
+
 5.Continue with proceeding to following methodologies
 
 ## Hierarchial Risk Parity 
